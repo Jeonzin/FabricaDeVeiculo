@@ -125,5 +125,6 @@ public class InstanciaMoto {
                     System.out.println("Opção inválida. Tente novamente.");
             }
         }
+        sc.close();
     }
 }

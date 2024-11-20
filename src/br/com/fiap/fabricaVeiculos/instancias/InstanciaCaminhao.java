@@ -140,5 +140,6 @@ public class InstanciaCaminhao {
                     System.out.println("Opção inválida. Tente novamente.");
             }
         }
+        sc.close();
     }
 }

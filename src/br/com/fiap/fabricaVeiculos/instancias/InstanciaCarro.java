@@ -110,5 +110,6 @@ public class InstanciaCarro {
                     System.out.println("Opção inválida. Tente novamente.");
             }
         }
+        sc.close();
     }
 }
